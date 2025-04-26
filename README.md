@@ -12,10 +12,9 @@ David Brang at the University of Michigan.
   <img src="assets/icon.png" alt="App Icon" width="100"/>
 </p>
 
-## Getting Started
+## Getting Started: Download and Install BrainTRACE
 
-* Option A: 
-    * Download a Compiled Desktop Application that does not require Matlab. Instead, the application uses Matlab Runtime (freely available). 
+* Option A: Download a Compiled Desktop Application that does not require Matlab. Instead, the application uses Matlab Runtime (freely available). 
 
     * Windows:
         * Download link:  
@@ -36,10 +35,10 @@ David Brang at the University of Michigan.
         * This will create a folder called BrainTRACE in your /Applications/ folder. Run BrainTRACE.app
         * If the program cannot locate the installed Matlab RunTime directory it will ask you to locate it.
 
-* Option B:
-    * Install BrainTRACE as a Matlab Application (Plug-In). This version is not publicly available but is freely available to researchers on request. Please email BrangLabTools@umich.edu to request a download link.
+* Option B: Install BrainTRACE as a Matlab Application (Plug-In). This version is not public but is freely available to researchers on request. 
+	* Please email BrangLabTools@umich.edu to request a download link.
 
-    * To use the program:
+    * To use the Matlab Plug-in:
     * Run the BrainTRACE.mlappinstall file, then select the BrainTRACE app from the MATLAB Apps bar.
 
     * This app was developed in MATLAB 2023b and has been tested in 2024b. It requires the MATLAB Statistics and Machine Learning Toolbox.
@@ -70,7 +69,7 @@ MathWorks support provided these instructions as a workaround until the bug is f
 4. Replace the "modeWindowButtonDownFcn.m" file in the folder with [this file](https://drive.google.com/file/d/1SrY8PBhaYD2R5s-7rdvHCR49o9ybJL5J/view?usp=sharing)
 5. If Matlab is open, restart the program
 
-## Use Guide (detailed at https://www.protocols.io/private/DB6CE588004C11F09F880A58A9FEAC02)
+## Use Guide (detailed at LINK)
 
 ### Pre-Processing
 
