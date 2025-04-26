@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" alt="App Icon" width="500"/>
+  <img src="assets/GUI.jpg" alt="App Icon" width="800"/>
 </p>
 
 # BrainTRACE #
