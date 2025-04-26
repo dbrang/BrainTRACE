@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/icon.png" alt="App Icon" width="200"/>
+</p>
 # BrainTRACE #
 
 This is a MATLAB GUI for placing electrode grids on 3d brain models generated from
