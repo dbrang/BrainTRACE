@@ -4,9 +4,9 @@
 
 # BrainTRACE #
 
-This is a MATLAB GUI for placing electrode grids on 3d brain models generated from
-.pial or .mgz files created Abbey Roelofs, Michael Egan, Tyler Slouf, and David Brang
-at the University of Michigan
+This is a MATLAB GUI for placing subdural ECoG grids on 3D brain models generated from
+.pial or .mgz files. Program was created Abbey Roelofs, Michael Egan, Tyler Slouf, and
+David Brang at the University of Michigan.
 
 ## Getting Started
 
