@@ -11,6 +11,7 @@ David Brang at the University of Michigan.
 <p align="left">
   <img src="assets/icon.png" alt="App Icon" width="100"/>
 </p>
+
 ## Getting Started
 
 * Option A: 
