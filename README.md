@@ -4,6 +4,7 @@
 
 # BrainTRACE #
 Brain Tumor Registration and Cortical Electrocorticography: A Novel Tool for Localizing Electrocorticography Electrodes in Patients with Brain Tumors
+
 BrainTRACE is a MATLAB tool for placing subdural ECoG grids on 3D brain models generated from
 .pial or .mgz files. Program was created Abbey Roelofs, Michael Egan, Tyler Slouf, and
 David Brang at the University of Michigan.
