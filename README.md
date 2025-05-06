@@ -30,7 +30,7 @@ Sena Oten, Shawn Hervey-Jumper, and David Brang.
         	* Mac (arm64 Processors: M1, M2, M3, etc): https://ssd.mathworks.com/supportfiles/downloads/R2024b/Release/5/deployment_files/installer/complete/maca64/MATLAB_Runtime_R2024b_Update_5_maca64.dmg
 
         * Step 2. Download and install BrainTrace:
-        	* Mac (Intel Processors): https://www.dropbox.com/t/n5fQHlJogUsCDYBK
+        	* Mac (Intel Processors): https://www.dropbox.com/t/cOkOdOBi2UTiOfIP
         	* Mac (arm64 Processors: M1, M2, M3, etc): https://www.dropbox.com/t/4SWFMtiQhFhPja8I
         	* This install BrainTRACE.app in your /Applications/ folder
         	* If the program cannot locate the installed Matlab RunTime directory it will ask you to locate it. This will create a file in your home directory that you can delete if needed (~/.braintrace_runtime_path)
@@ -42,6 +42,8 @@ Sena Oten, Shawn Hervey-Jumper, and David Brang.
     	* Run the BrainTRACE.mlappinstall file, then select the BrainTRACE app from the MATLAB Apps bar.
 
     * This app was developed in MATLAB 2023b and has been tested in 2024b. It requires the MATLAB Statistics and Machine Learning Toolbox.
+
+## User Guide detailed at (Protocols.io/LINK)
 
 ### Input Data
 
@@ -68,8 +70,6 @@ MathWorks support provided these instructions as a workaround until the bug is f
 3. Navigate to `\matlab\toolbox\matlab\uitools\+matlab\+uitools\+internal\@uimode`
 4. Replace the "modeWindowButtonDownFcn.m" file in the folder with [this file](https://drive.google.com/file/d/1SrY8PBhaYD2R5s-7rdvHCR49o9ybJL5J/view?usp=sharing)
 5. If Matlab is open, restart the program
-
-## Use Guide (detailed at LINK)
 
 ### Pre-Processing
 
