@@ -23,10 +23,8 @@ Sena Oten, Shawn Hervey-Jumper, and David Brang.
     * MAC:
         * Step 1. Download and install Matlab Runtime for R2024b. 
         	* Note that you do not need Matlab to be installed. BrainTRACE was compiled using R2024b so it requires the same version of Matlab Runtime regardless if you have another version of Matlab installed.
-
         	* You can download Matlab Runtime from Matlab's website (https://www.mathworks.com/products/compiler/matlab-runtime.html) or the links below: 
         	* Mac (Intel Processors): https://ssd.mathworks.com/supportfiles/downloads/R2024b/Release/5/deployment_files/installer/complete/maci64/MATLAB_Runtime_R2024b_Update_5_maci64.dmg.zip
-
         	* Mac (arm64 Processors: M1, M2, M3, etc): https://ssd.mathworks.com/supportfiles/downloads/R2024b/Release/5/deployment_files/installer/complete/maca64/MATLAB_Runtime_R2024b_Update_5_maca64.dmg
 
         * Step 2. Download and install BrainTrace:
@@ -37,10 +35,8 @@ Sena Oten, Shawn Hervey-Jumper, and David Brang.
 
 * Option B: Install BrainTRACE as a Matlab Application (Plug-In). This version is not public but is freely available to researchers on request. 
 	* Please email BrangLabTools@umich.edu to request a download link.
-
     * To use the Matlab Plug-in:
     	* Run the BrainTRACE.mlappinstall file, then select the BrainTRACE app from the MATLAB Apps bar.
-
     * This app was developed in MATLAB 2023b and has been tested in 2024b. It requires the MATLAB Statistics and Machine Learning Toolbox.
 
 ## User Guide detailed at (Protocols.io/LINK)
