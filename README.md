@@ -24,14 +24,14 @@ Sena Oten, Shawn Hervey-Jumper, and David Brang.
         * Step 1. Download and install Matlab Runtime for R2024b. 
         	* Note that you do not need Matlab to be installed. BrainTRACE was compiled using R2024b so it requires the same version of Matlab Runtime regardless if you have another version of Matlab installed.
         	* You can download Matlab Runtime from Matlab's website (https://www.mathworks.com/products/compiler/matlab-runtime.html) or the links below: 
-        	* Mac (Intel Processors): https://ssd.mathworks.com/supportfiles/downloads/R2024b/Release/5/deployment_files/installer/complete/maci64/MATLAB_Runtime_R2024b_Update_5_maci64.dmg.zip
-        	* Mac (arm64 Processors: M1, M2, M3, etc): https://ssd.mathworks.com/supportfiles/downloads/R2024b/Release/5/deployment_files/installer/complete/maca64/MATLAB_Runtime_R2024b_Update_5_maca64.dmg
+        		* Mac (Intel Processors): https://ssd.mathworks.com/supportfiles/downloads/R2024b/Release/5/deployment_files/installer/complete/maci64/MATLAB_Runtime_R2024b_Update_5_maci64.dmg.zip
+        		* Mac (arm64 Processors: M1, M2, M3, etc): https://ssd.mathworks.com/supportfiles/downloads/R2024b/Release/5/deployment_files/installer/complete/maca64/MATLAB_Runtime_R2024b_Update_5_maca64.dmg
 
         * Step 2. Download and install BrainTrace:
         	* Mac (Intel Processors): https://www.dropbox.com/t/cOkOdOBi2UTiOfIP
         	* Mac (arm64 Processors: M1, M2, M3, etc): https://www.dropbox.com/t/4SWFMtiQhFhPja8I
-        	* This install BrainTRACE.app in your /Applications/ folder
-        	* If the program cannot locate the installed Matlab RunTime directory it will ask you to locate it. This will create a file in your home directory that you can delete if needed (~/.braintrace_runtime_path)
+        	* This .pkg file will install BrainTRACE.app into your /Applications/ folder
+        	* If the program cannot locate the installed Matlab RunTime directory it will ask you to locate it. This will create a file in your home directory that you can delete if necessary (~/.braintrace_runtime_path)
 
 * Option B: Install BrainTRACE as a Matlab Application (Plug-In). This version is not public but is freely available to researchers on request. 
 	* Please email BrangLabTools@umich.edu to request a download link.
