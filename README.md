@@ -39,7 +39,7 @@ Sena Oten, Shawn Hervey-Jumper, and David Brang.
     	* Run the BrainTRACE.mlappinstall file, then select the BrainTRACE app from the MATLAB Apps bar.
     * This app was developed in MATLAB 2023b and has been tested in 2024b. It requires the MATLAB Statistics and Machine Learning Toolbox.
 
-## User Guide detailed at (Protocols.io/LINK)
+## User Guide detailed at (https://www.protocols.io/private/DB6CE588004C11F09F880A58A9FEAC02)
 
 ### Input Data
 
