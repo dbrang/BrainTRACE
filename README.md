@@ -8,6 +8,8 @@ This is a MATLAB GUI for placing subdural ECoG grids on 3D brain models generate
 .pial or .mgz files. Program was created Abbey Roelofs, Michael Egan, Tyler Slouf,
 Sena Oten, Shawn Hervey-Jumper, and David Brang.
 
+medRxiv Preprint: https://medrxiv.org/cgi/content/short/2025.05.07.25327167v1
+
 <p align="left">
   <img src="assets/icon.png" alt="App Icon" width="100"/>
 </p>
