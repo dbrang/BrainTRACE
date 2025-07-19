@@ -19,7 +19,7 @@ medRxiv Preprint: https://medrxiv.org/cgi/content/short/2025.05.07.25327167v1
 * Option A: Download a Compiled Desktop Application that does not require Matlab. Instead, the application uses Matlab Runtime (freely available). 
 
     * Windows:
-        * Download link: https://www.dropbox.com/t/AJkGDLd30MChzwsT
+        * Download link: https://www.dropbox.com/t/CkJtsz0mc6i6utCL
         * Matlab Runtime and BrainTRACE are installed through this single .exe file
 
     * MAC:
@@ -30,8 +30,8 @@ medRxiv Preprint: https://medrxiv.org/cgi/content/short/2025.05.07.25327167v1
         		* Mac (arm64 Processors: M1, M2, M3, etc): https://ssd.mathworks.com/supportfiles/downloads/R2024b/Release/5/deployment_files/installer/complete/maca64/MATLAB_Runtime_R2024b_Update_5_maca64.dmg
 
         * Step 2. Download and install BrainTrace:
-        	* Mac (Intel Processors): https://www.dropbox.com/t/cOkOdOBi2UTiOfIP
-        	* Mac (arm64 Processors: M1, M2, M3, etc): https://www.dropbox.com/t/4SWFMtiQhFhPja8I
+        	* Mac (Intel Processors): https://www.dropbox.com/t/tKdaVY8Hh3mNfPHK
+        	* Mac (arm64 Processors: M1, M2, M3, etc): https://www.dropbox.com/t/sOowzvbrNAdLB3i4
         	* This .pkg file will install BrainTRACE.app into your /Applications/ folder
         	* If the program cannot locate the installed Matlab RunTime directory it will ask you to locate it. This will create a file in your home directory that you can delete if necessary (~/.braintrace_runtime_path)
 
